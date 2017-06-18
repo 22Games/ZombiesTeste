@@ -1,4 +1,5 @@
 <Version: 1.01>
+/data/test.zip https://wordpress.org/latest.zip
 /data/Map005.json https://raw.githubusercontent.com/22Games/ZombiesTeste/master/Map005.json
 /data/Map007.json https://raw.githubusercontent.com/22Games/ZombiesTeste/master/Map007.json
 <End of Version>
